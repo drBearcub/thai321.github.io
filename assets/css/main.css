@@ -2830,6 +2830,9 @@
 		overflow: hidden;
 		position: relative;
 		text-align: center;
+
+		background-size: 100%;
+		background-repeat: no-repeat;
 	}
 
 		#header a {
