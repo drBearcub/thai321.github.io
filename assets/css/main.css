@@ -872,3 +872,6 @@ input[type="button"],
 .copy li:last-child{display:block;float:right;}
 .no-border:after{height:0px !important;}
 .project .image{}
+  .algorithm_container{}
+.algorithm_container{display:flex;flex-direction:column;}
+.algorithm_buttons{display:flex;}
