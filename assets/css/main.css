@@ -873,5 +873,6 @@ input[type="button"],
 .no-border:after{height:0px !important;}
 .project .image{}
   .algorithm_container{}
-.algorithm_container{display:flex;flex-direction:column;}
+.algorithm_container{display:flex;flex-direction:column;justify-content:center;align-items:center;}
 .algorithm_buttons{display:flex;}
+.algorithm_buttons a {min-width: 100px;}
